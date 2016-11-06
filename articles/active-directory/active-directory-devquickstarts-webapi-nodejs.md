@@ -217,6 +217,7 @@ From the command-line, change directories to the **azuread** folder if not alrea
 Enter the following commands to install the following modules in your node_modules directory:
 
 * `npm install assert-plus`
+* `npm install posix-getopt`
 * `npm install bunyan`
 * `npm update`
 
